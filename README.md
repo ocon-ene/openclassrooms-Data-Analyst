@@ -11,6 +11,20 @@ Face à l’explosion du volume d’informations et à la multiplication des sou
 
 L’analyse de données massives s’impose aujourd’hui comme une véritable nécessité pour rester compétitif dans la quasi-totalité des secteurs professionnels, y compris le marketing, la publicité, la commerce, l’assurance ou encore la médecine. Le volume considérable de données, aux formats divers, nécessite toutefois de recruter de nouveaux profils qui sachent les “faire parler” ou, en d’autres termes, qui aient les compétences techniques et mathématiques pour agréger, interpréter et communiquer des connaissances extraites d’un jeu de données. Ces compétences correspondent au profil du data analyst.  
 
+## Niveau de qualification atteint 
+
+Niveau 6 - équivalent Master 1
+Code(s) NSF :
+
+    114 : Mathématiques
+    326 : Informatique, traitement de l'information, réseaux de transmission
+
+Formacode(s) :
+
+    31025 : Data analytics
+
+Date d’échéance de l’enregistrement : 14-10-2023
+
 ## Pédagogie
 
 La formation s’est basée sur la pratique, avec des projets professionnalisants et l’aide d’un tuteur expert dans le métier qui nous montrait la bonne démarche à suivre pour chaque étape du projet
