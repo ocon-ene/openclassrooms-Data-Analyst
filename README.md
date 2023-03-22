@@ -102,8 +102,8 @@ Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [stat
 | <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Analyser un besoin client pour formuler des questions analytiques et définir des indicateurs de suivi. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Créer les graphiques permettant de représenter les résultats obtenus. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png)![tableau](https://img.icons8.com/color/48/null/tableau-software.png) | 
-| Créer un tableau de bord (dashboard) permettant de visualiser et de mesurer les résultats obtenus en fonction d’indicateurs donnés. | --- |![tableau](https://img.icons8.com/color/48/null/tableau-software.png)  | 
+| Créer les graphiques permettant de représenter les résultats obtenus. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png)![tableau](https://img.icons8.com/color/28/null/tableau-software.png) | 
+| Créer un tableau de bord (dashboard) permettant de visualiser et de mesurer les résultats obtenus en fonction d’indicateurs donnés. | --- |![tableau](https://img.icons8.com/color/28/null/tableau-software.png)  | 
 </details>
 
 <details>
@@ -132,7 +132,7 @@ Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [stat
 | <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Mettre en œuvre une méthode d’apprentissage supervisée pour réaliser une analyse prédictive.  | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)|
-| Mettre en œuvre une méthode d’apprentissage non supervisée pour opérer des classifications automatiques et partitionner des données. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>`Regression lineaire`</li><li>`K-means`</li></ul>| 
+| Mettre en œuvre une méthode d’apprentissage non supervisée pour opérer des classifications automatiques et partitionner des données. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Regression lineaire*</li><li>*K-means*</li></ul>| 
 </details>
 
 
