@@ -2,11 +2,12 @@
 ### **Competences du projet**
 
 
-| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
-| :--- | :---: | :---: | 
-| Pré-traiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Manipulation des data frames | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png) | 
+| <div align="center">` Competences adquises 💡 ` | ` outils utilsées `
+| :--- | :---: |
+| Pré-traiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
+| Manipulation des data frames |![python](https://img.icons8.com/color/28/null/python--v1.png) | 
 
+<br>
 
 ## Introduction
 
