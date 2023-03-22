@@ -1,5 +1,5 @@
 
-### **Competences du projet**
+### 💡 **Competences du projet**
 
 
 | <div align="center">` Competences adquises 💡 ` | ` outils utilsées `
@@ -9,6 +9,16 @@
 
 <br>
 
+## Resumé des résultats de la mission
+
+- [Introduction](#introduction)
+- [Resumé des demandes de l'équipe](#resumé-des-demandes-de-l-équipe)
+- [Libreries utilisées et version](#libreries-utilisées-et-version)
+- [Les pays avec des problemes de sous-nutrition](#les-pays-avec-des-problemes-de-sous-nutrition)
+- [Nombre theroique des personnes qui peuvent être nourris](#nombre-theroique-des-personnes-qui-peuvent-être-nourris)
+- [Conclusion](#conclusion)
+
+
 ## Introduction
 
 ![fao](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/FAO.PNG)
@@ -17,7 +27,7 @@ Vous avez récemment rejoint une équipe de chercheurs de la Food and Agricultur
 
 Les chercheurs sont au milieu d'une recherche sur le theme de la sous-nutrition et pour pouvoir mener à bein la recherche ils ont besoin de quelques informations suplementaires que seulement un data analyste peut fournir.
 
-## Resumen des demandes de l'équipe 
+## Resumé des demandes de l équipe 
 
 Pour l'année 2017:
 - La proportion de personnes en état de sous-nutrition
@@ -30,19 +40,6 @@ Demandes suplementaires
 - Les pays qui ont le plus bénéficié d’aide depuis 2013
 - Les pays ayant le plus/le moins de disponibilité alimentaire/habitant,
 
-## Demarche
-
-- [Preparation des données](#preparation-des-données)
-- [1er mission](#1er-mission)
-- [Analyzing Traffic Sources](#analyzing-traffic-sources)
-- [Analyzing Website Performances](#analyzing-website-performances)
-- [Mid-Course Project](#mid-course-project)
-- [Analysis for Channel Portfolio Management](#analysis-for-channel-portfolio-management)
-- [Analyzing Business Patterns and Seasonality](#analyzing-business-patterns-and-seasonality)
-- [Product Analysis](#product-analysis)
-- [User Analysis](#user-analysis)
-- [Final Project](#final-project)
-
 ## Libreries utilisées et version
 
 ```python
@@ -50,7 +47,7 @@ numpy version is 1.21.5
 pandas version is 1.4.2
 seaborn version is 0.11.2
 ```
-## Resumé des résultats de la mission
+## Les pays avec des problemes de sous-nutrition
 
 D'abord nous pouvons parler des pays qui ont le plus de personnes en sous nutrition en proportion à leur population.
 Malhereusement Haiti est au top mundial du classement en 2017, suivi de la corée du nord. 
@@ -107,7 +104,7 @@ Dans cette table on peut observer une tendance, les pays qui ont beaucoup des pr
 </table>
 </div>
 
-### Nombre theroique des personnes qui peuvent etre nourris
+## Nombre theroique des personnes qui peuvent être nourris
 
 Ensuite nous allons analyser les nombre theorique des personnes qui pourraient etre nourris avec la production actuelle de norriture.
 
@@ -185,7 +182,7 @@ Quelle conclusion en tirer donc sur ce point ? Deux
 	
 Pour finir, nous ne pouvons pas fermer les yeux face a l'absurde quantité de norriture qui est jetée avec plus de 10%.
 
-### Conclusion
+## Conclusion
 
 Un gros pourcentage de la norriture est soit destinée a la consommation des animaux, soit jeté a la poubelle pendant que des pays pauvres sont en difficulté et n'arrivent pas a nourrir l'ensemble de ça population.
 
