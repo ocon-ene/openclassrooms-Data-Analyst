@@ -27,13 +27,13 @@ Date d’échéance de l’enregistrement : 14-10-2023
 
 ## Pédagogie
 
-La formation s’est basée sur la pratique, avec des projets professionnalisants et l’aide d’un tuteur expert dans le métier qui nous montrait la bonne démarche à suivre pour chaque étape du projet
+La formation s’est basée sur la pratique, avec des projets professionnalisants et l’aide d’un tuteur expert dans le métier qui partageait ses expériences avec nous.
 
 ![REP](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/REPARTITION.png)
 
 # Partenariats
 
-Nous avons eu la chance de compter avec des cours comme la [statistiques inférentielle](https://openclassrooms.com/fr/course-certificates/9349576468) ou l’algèbre relationnelle(lien) qui ont été faites en partenariat avec l’ENSAE.
+Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [statistiques inférentielle](https://openclassrooms.com/fr/course-certificates/9349576468) ou l’algèbre relationnelle(lien)) qui ont été faites en partenariat avec l’ENSAE.
 
 ![ENSAE](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/ENSAE.png)
 
