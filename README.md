@@ -1,6 +1,7 @@
 
+![OC](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/OC%20logo.PNG)
 
-## Openclassrooms
+## A propos de Openclassrooms
 
 OpenClassrooms rend l’éducation accessible à tous en révolutionnant la pédagogie grâce à une approche professionnalisante unique centrée sur les compétences numériques et du mentorat individuel. OpenClassrooms est la plateforme leader en Europe d'éducation en ligne et la seule au monde à délivrer des diplômes de niveau reconnu par l’Etat (de niveau bac+2 à +5) complètement en ligne. 
 
@@ -14,9 +15,13 @@ L’analyse de données massives s’impose aujourd’hui comme une véritable n
 
 La formation s’est basée sur la pratique, avec des projets professionnalisants et l’aide d’un tuteur expert dans le métier qui nous montrait la bonne démarche à suivre pour chaque étape du projet
 
+![REP](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/REPARTITION.png)
+
 # Partenariats
 
-Nous avons eu la chance de compter avec des cours comme la statistiques inférentielle (lien) ou l’algèbre relationnelle(lien) qui ont été faites en partenariat avec l’ENSAE.
+Nous avons eu la chance de compter avec des cours comme la [statistiques inférentielle](https://openclassrooms.com/fr/course-certificates/9349576468) ou l’algèbre relationnelle(lien) qui ont été faites en partenariat avec l’ENSAE.
+
+![ENSAE](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/ENSAE.png)
 
 **👩🏻‍💼 THE SITUATION** 
 
