@@ -6,13 +6,10 @@
 - [A propos de Openclassrooms](#a-propos-de-openclassrooms)
 - [Objectifs et contexte de la certification](#objectifs-et-contexte-de-la-certification)
   - [Niveau de qualification atteint](#niveau-de-qualification-atteint)
-- [Analyzing Website Performances](#analyzing-website-performances)
-- [Mid-Course Project](#mid-course-project)
-- [Analysis for Channel Portfolio Management](#analysis-for-channel-portfolio-management)
-- [Analyzing Business Patterns and Seasonality](#analyzing-business-patterns-and-seasonality)
-- [Product Analysis](#product-analysis)
-- [User Analysis](#user-analysis)
-- [Final Project](#final-project)
+  - [Pédagogie](#pédagogie)
+  - [Partenariats](#partenariats)
+- [Blocs de compétences](#blocs-de-compétences)
+
 
 ## A propos de Openclassrooms
 
@@ -49,7 +46,9 @@ Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [stat
 ![ENSAE](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/ENSAE.png)
 
 
-## 💡  Blocs de compétences
+##  Blocs de compétences
+
+
 
 <details>
 <summary>
@@ -58,7 +57,7 @@ Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [stat
     
 </summary>
     
-| <div align="center">`Competences adquises` | `Projets examples` | `outils utilsées`
+| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Configurer une base de données afin d’y intégrer un jeu de données à exploiter. | --- |![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)|
 | Effectuer des requêtes SQL pour répondre à une problématique métier. | --- | ![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)![SQL](https://img.icons8.com/ios-filled/28/FFFFFF/sql.png) | 
@@ -73,7 +72,7 @@ Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [stat
 
 </summary>    
 
-| <div align="center">`Competences adquises` | `Projets examples` | `outils utilsées`
+| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Collecter et intégrer des données venant de plusieurs sources en respectant les règles de protection des données en vigueur. | --- |--- |
 | Préparer des données pour l'analyse en respectant les normes internes à l’entreprise. | --- |--- | 
@@ -81,15 +80,15 @@ Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [stat
 
 <details>
 <summary>
-    
-### **Bloc 3:** Nettoyer et décrire un jeu de données à l’aide d’un langage de programmation spécialisé afin d’en préparer l’exploitation
+  
+### **Bloc 3:** Nettoyer et décrire un jeu de données à l’aide de python afin d’en préparer l’exploitation
 
 </summary>
     
-| <div align="center">`Competences adquises` | `Projets examples` | `outils utilsées`
+| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
-| Pré-traiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. | --- |--- |
-| Réaliser une analyse uni-variée de données pré-traitées afin de les décrire et de détecter les incohérences.  | --- |--- | 
+| Pré-traiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)![excel](https://img.icons8.com/color/28/null/microsoft-excel-2019--v1.png) |
+| Réaliser une analyse uni-variée de données pré-traitées afin de les décrire et de détecter les incohérences.  | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png) | 
 </details>
 
 <details>
@@ -100,32 +99,41 @@ Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [stat
 
 </summary>    
     
-| <div align="center">`Competences adquises` | `Projets examples` | `outils utilsées`
+| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
-| Analyser un besoin client pour formuler des questions analytiques et définir des indicateurs de suivi. | --- |--- |
-| Créer les graphiques permettant de représenter les résultats obtenus. | --- |--- | 
-| Créer un tableau de bord (dashboard) permettant de visualiser et de mesurer les résultats obtenus en fonction d’indicateurs donnés. | --- |--- | 
+| Analyser un besoin client pour formuler des questions analytiques et définir des indicateurs de suivi. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png) |
+| Créer les graphiques permettant de représenter les résultats obtenus. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png)![tableau](https://img.icons8.com/color/48/null/tableau-software.png) | 
+| Créer un tableau de bord (dashboard) permettant de visualiser et de mesurer les résultats obtenus en fonction d’indicateurs donnés. | --- |![tableau](https://img.icons8.com/color/48/null/tableau-software.png)  | 
+</details>
+
+<details>
+
+<summary>    
+    
+### **Bloc 5:** Réaliser l’analyse exploratoire de données structurées afin de les synthétiser et de les interpréter
+
+</summary>    
+    
+| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| :--- | :---: | :---: | 
+| Réaliser une analyse multi-variée pour comprendre la corrélation entre des variables et les synthétiser.   | --- |![python](https://img.icons8.com/color/28/null/python--v1.png) |
+| Analyser des séries temporelles pour mesurer un phénomène au cours du temps. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)| 
+| Réaliser un test statistique afin de vérifier une prédiction.  | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)| 
+</details>
+  
+ <details>
+
+<summary>    
+    
+### **Bloc 6:** Réaliser une modélisation statistique à l’aide de méthodes d’apprentissage supervisé et non supervisé 
+
+</summary>    
+    
+| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| :--- | :---: | :---: | 
+| Mettre en œuvre une méthode d’apprentissage supervisée pour réaliser une analyse prédictive.  | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)|
+| Mettre en œuvre une méthode d’apprentissage non supervisée pour opérer des classifications automatiques et partitionner des données. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)| 
 </details>
 
 
-| Bloc | Competences adquises | Projets examples | Outils utilsées
-| :--- | :--- | :---: | :---: |
-| `Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs` | -Configurer une base de données afin d’y intégrer un jeu de données à exploiter.<br>-Effectuer des requêtes SQL pour répondre à une problématique métier.<br>-Mettre à jour un catalogue de données pour rendre accessible la base de données à ses utilisateurs | [PP1](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1) | ![Python](https://img.icons8.com/color/24/null/python--v1.png)<br>![Excel](https://img.icons8.com/color/24/null/microsoft-excel-2019--v1.png) |
-| `Collecter et préparer des données de sources variées en utilisant un outil de gestion des données` | Show file differences that **haven't been** staged |--- | --- |
-| `Collecter et préparer des données de sources variées en utilisant un outil de gestion des données` | Show file differences that **haven't been** staged |--- | --- |
-| `Collecter et préparer des données de sources variées en utilisant un outil de gestion des données` | Show file differences that **haven't been** staged |--- | --- |
-| `Collecter et préparer des données de sources variées en utilisant un outil de gestion des données` | Show file differences that **haven't been** staged |--- | --- |
-| `Collecter et préparer des données de sources variées en utilisant un outil de gestion des données` | Show file differences that **haven't been** staged |--- | --- |
-| `Collecter et préparer des données de sources variées en utilisant un outil de gestion des données` | Show file differences that **haven't been** staged |--- | --- |
-
-
-| <div align="center">:school_satchel: **Boite d'outils**  | :chart_with_upwards_trend:Honnete evaluation  | :chart_with_upwards_trend:🛠️ **Outils**  | 💻 Projects |
-|:-----|-----------|-----------|-----------|
-|-Configurer une base de données afin d’y intégrer un jeu de données à exploiter.<br>-Effectuer des requêtes SQL pour répondre à une problématique métier.<br>-Mettre à jour un catalogue de données pour rendre accessible la base de données à ses utilisateurs | <div align="center">:star::star:|  <div align="center">![Python](https://img.icons8.com/color/24/null/python--v1.png) | [PP1](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1) |
-|Nettoyage des données  | <div align="center">:star::star::star: |  <div align="center">![Python](https://img.icons8.com/color/24/null/python--v1.png)![Excel](https://img.icons8.com/color/24/null/microsoft-excel-2019--v1.png) | [PP1](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1)|
-|Traitement des nuls et imputation  | <div align="center">:star::star: | <div align="center">![Python](https://img.icons8.com/color/24/null/python--v1.png)![Excel](https://img.icons8.com/color/24/null/microsoft-excel-2019--v1.png) | PostgreSQL |
-|Analyse univariée  | <div align="center">:star::star::star: | <div align="center">![Python](https://img.icons8.com/color/24/null/python--v1.png) | [PP1](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1) |
-| <div align="left">Analyse bivariée  | <div align="center">:star::star::star: | <div align="center">![Python](https://img.icons8.com/color/24/null/python--v1.png)| Excel |
-| <div align="left">Création des bases des données (BDD) et langague SQL | <div align="center">:star::star: | <div align="center">![Excel](https://img.icons8.com/color/24/null/microsoft-excel-2019--v1.png) | [PP1](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1) |
-| <div align="left">Connection de la BDD vers l'outil de visualisation | <div align="center">:star::star: | <div align="center">![SQL](https://img.icons8.com/color/20/null/postgreesql.png)![Tableau](https://img.icons8.com/color/24/null/tableau-software.png) | [PP1](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1) |
   
