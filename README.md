@@ -23,8 +23,6 @@ Formacode(s) :
 
     31025 : Data analytics
 
-Date d’échéance de l’enregistrement : 14-10-2023
-
 ## Pédagogie
 
 La formation s’est basée sur la pratique, avec des projets professionnalisants et l’aide d’un tuteur expert dans le métier qui partageait ses expériences avec nous.
