@@ -187,3 +187,5 @@ Pour finir, nous ne pouvons pas fermer les yeux face a l'absurde quantité de no
 ### Conclusion
 
 Un gros pourcentage de la norriture est soit destinée a la consommation des animaux, soit jeté a la poubelle pendant que des pays pauvres sont en difficulté et n'arrivent pas a nourrir l'ensemble de ça population.
+
+Pour acceder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/PM1-%C3%A9tude%20de%20sant%C3%A9%20publique/Ocon_Jorge_1_P4_042022.ipynb) 
