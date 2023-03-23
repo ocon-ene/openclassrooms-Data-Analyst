@@ -41,7 +41,7 @@ La formation s’est basée sur la pratique, avec des projets professionnalisant
 
 ### Partenariats
 
-Nous avons eu la chance d'avoir des cours theoriques de qualité (comme la [statistiques inférentielle](https://openclassrooms.com/fr/course-certificates/9349576468) ou l’algèbre relationnelle(lien)) qui ont été faites en partenariat avec l’ENSAE.
+Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [statistiques inférentielle](https://openclassrooms.com/fr/course-certificates/9349576468) ou l’algèbre relationnelle(lien)) qui ont été faites en partenariat avec l’ENSAE.
 
 ![ENSAE](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/ENSAE.png)
 
