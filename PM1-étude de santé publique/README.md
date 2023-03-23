@@ -186,4 +186,4 @@ Pour finir, nous ne pouvons pas fermer les yeux face à l'absurde quantité de n
 
 Un pourcentage élevé de la nourriture est soit destinée à la consommation des animaux, soit jeté à la poubelle pendant que des pays pauvres sont en difficulté et n'arrivent pas à nourrir l'ensemble de sa population.
 
-Pour acceder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/PM1-%C3%A9tude%20de%20sant%C3%A9%20publique/Ocon_Jorge_1_P4_042022.ipynb) 
+Pour accèder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/PM1-%C3%A9tude%20de%20sant%C3%A9%20publique/Ocon_Jorge_1_P4_042022.ipynb) 
