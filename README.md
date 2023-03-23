@@ -57,7 +57,7 @@ Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [sta
     
 </summary>
     
-| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Configurer une base de données afin d’y intégrer un jeu de données à exploiter. | --- |![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)|
 | Effectuer des requêtes SQL pour répondre à une problématique métier. | --- | ![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)![SQL](https://img.icons8.com/ios-filled/28/FFFFFF/sql.png) | 
@@ -72,7 +72,7 @@ Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [sta
 
 </summary>    
 
-| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Collecter et intégrer des données venant de plusieurs sources en respectant les règles de protection des données en vigueur. | --- |--- |
 | Préparer des données pour l'analyse en respectant les normes internes à l’entreprise. | --- |--- | 
@@ -85,7 +85,7 @@ Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [sta
 
 </summary>
     
-| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Pré-traiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)![excel](https://img.icons8.com/color/28/null/microsoft-excel-2019--v1.png) |
 | Réaliser une analyse uni-variée de données pré-traitées afin de les décrire et de détecter les incohérences.  | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png) | 
@@ -99,7 +99,7 @@ Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [sta
 
 </summary>    
     
-| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Analyser un besoin client pour formuler des questions analytiques et définir des indicateurs de suivi. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png) |
 | Créer les graphiques permettant de représenter les résultats obtenus. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png)![tableau](https://img.icons8.com/color/28/null/tableau-software.png) | 
@@ -114,7 +114,7 @@ Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [sta
 
 </summary>    
     
-| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Réaliser une analyse multi-variée pour comprendre la corrélation entre des variables et les synthétiser.   | --- |![python](https://img.icons8.com/color/28/null/python--v1.png) |
 | Analyser des séries temporelles pour mesurer un phénomène au cours du temps. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)| 
@@ -129,7 +129,7 @@ Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [sta
 
 </summary>    
     
-| <div align="center">` Competences adquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
 | Mettre en œuvre une méthode d’apprentissage supervisée pour réaliser une analyse prédictive.  | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)|
 | Mettre en œuvre une méthode d’apprentissage non supervisée pour opérer des classifications automatiques et partitionner des données. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Regression lineaire*</li><li>*K-means*</li></ul>| 
