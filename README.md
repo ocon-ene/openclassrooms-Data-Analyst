@@ -59,7 +59,7 @@ Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [sta
     
 | <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
-| Configurer une base de données afin d’y intégrer un jeu de données à exploiter. | [PM1](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM1-%C3%A9tude%20de%20sant%C3%A9%20publique) |![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)|
+| Configurer une base de données afin d’y intégrer un jeu de données à exploiter. | --- |![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)|
 | Effectuer des requêtes SQL pour répondre à une problématique métier. | --- | ![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)![SQL](https://img.icons8.com/ios-filled/28/FFFFFF/sql.png) | 
 | Mettre à jour un catalogue de données pour rendre accessible la base de données à ses utilisateurs. | --- |--- | 
 </details> 
@@ -87,7 +87,7 @@ Nous avons eu la chance d'avoir des cours théoriques de qualité (comme la [sta
     
 | <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
-| Pré-traiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)![excel](https://img.icons8.com/color/28/null/microsoft-excel-2019--v1.png) |
+| Pré-traiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. | [PM1](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM1-%C3%A9tude%20de%20sant%C3%A9%20publique) |![python](https://img.icons8.com/color/28/null/python--v1.png)![excel](https://img.icons8.com/color/28/null/microsoft-excel-2019--v1.png) |
 | Réaliser une analyse uni-variée de données pré-traitées afin de les décrire et de détecter les incohérences.  | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png) | 
 </details>
 
