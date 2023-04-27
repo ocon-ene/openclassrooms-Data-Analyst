@@ -8,7 +8,7 @@
 
 <br>
 
-## Synthèse des résultats de l'analyse.
+# Synthèse des résultats de l'analyse.
 
 - [Introduction](#introduction)
 - [Cahier des charges](#cahier-des-charges)
@@ -20,7 +20,7 @@
 
 ## Introduction
 
-![fao](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/FAO.PNG)
+![fao](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/bottleneck.PNG)
 
 Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
 
