@@ -22,22 +22,23 @@
 
 ![fao](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/bottleneck.PNG)
 
-Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
+Vous êtes une data analyst free lance et vous avez reussi a decrocher vôtre premier travail chez Bottleneck, un marchand de vin très prestigieux.
 
-Les chercheurs sont au milieu d'une recherche sur le thème de la sous-nutrition et pour pouvoir mener à bien la recherche ils ont besoin de quelques informations supplémentaires que seulement un data analyste peut fournir.
+Laurent, le manager de cette mission, vous parle des problemes de l'entreprise : 
+
+>Actuellement, pour gérer nos ressources, nos clients, etc., on utilise un ERP (Entreprise Resource Planning) qui n’est absolument pas relié à notre site de vente en ligne. Pour être tout à fait honnête, les outils en place sont vraiment artisanaux et dans ces conditions, la gestion des stocks est vraiment complexe et notre visibilité en termes d’analyse des ventes sur le Net est vraiment réduite, car très peu de personnes ont accès au back-office. En attendant une solution plus centralisée, un rapprochement entre les 2 bases, même manuel, pourrait être très utile…
 
 ## Cahier des charges
 
-Pour l'année 2017 :
-- La proportion de personnes en état de sous-nutrition
-- Le nombre théorique de personnes qui pourraient être nourries.
-- Le nombre théorique de personnes qui pourraient être nourries avec des produits végétaux.
-- L’utilisation de la disponibilité intérieure, en particulier la part qui est attribuée à l’alimentation animale, celle qui est perdue et celle qui est concrètement utilisée pour l'alimentation humaine. 
+Premier mission:
+-Rapprocher deux exports: un export de l’ERP contenant les références produit, leur prix de vente et leur état de stock, et un export d’une table de l’outil de CMS (Content Management System) contenant les informations des produits commercialisés en ligne (nom, description, nombre de ventes...)
+-
 
-Demandes supplémentaires
-- Les pays pour lesquels la proportion de personnes sous-alimentées est la plus forte en 2017
-- Les pays qui ont le plus bénéficié d’aide depuis 2013
-- Les pays ayant le plus/le moins de disponibilité alimentaire/habitant,
+Deuxieme mission:
+-Une fois le rapprochement effectué, calculer le chiffre d’affaires par produit, ainsi que le total du chiffre d’affaires réalisé en ligne.
+	
+Troisieme mission:
+-Analyser la variable "prix" afin de détecter d’éventuelles valeurs aberrantes, de les lister et d’en faire une représentation graphique pour plus de lisibilité.
 
 ## Librairies utilisées et version
 
