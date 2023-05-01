@@ -3,8 +3,8 @@
 
 | <div align="center">` Compétences acquises 💡 ` | ` Outils utilisées `
 | :--- | :---: |
-| Prétraiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Manipulation des data frames |![python](https://img.icons8.com/color/28/null/python--v1.png) | 
+| Mettre à jour un catalogue de données pour rendre accessible la base de données à ses utilisateurs. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
+| Réaliser une analyse uni-variée de données pré-traitées afin de les décrire et de détecter les incohérences. |![python](https://img.icons8.com/color/28/null/python--v1.png) | 
 
 <br>
 
