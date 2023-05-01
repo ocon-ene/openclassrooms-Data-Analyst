@@ -515,7 +515,7 @@ CA_produit["chiffre_daffaires"].sum()
 
 On peut analyser la variable price avec une boxplot.
 
-![boxplot](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/boxplot p5.PNG)
+![boxplot](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/boxplot_p5.PNG)
 
 Nous avons aussi identifié les outliers avec la méthode IQR et la méthode du Z-score:
 
