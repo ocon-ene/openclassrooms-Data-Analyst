@@ -14,7 +14,7 @@
 - [Introduction](#introduction)
 - [Cahier des charges](#cahier-des-charges)
 - [Librairies utilisées et version](#librairies-utilisées-et-version)
-- [Les pays avec des problemes de sous-nutrition](#les-pays-avec-des-problemes-de-sous-nutrition)
+- [Les pays avec des problèmes de sous-nutrition](#les-pays-avec-des-problèmes-de-sous-nutrition)
 - [Nombre théorique des personnes qui peuvent être nourris](#nombre-théorique-des-personnes-qui-peuvent-être-nourris)
 - [Conclusion](#conclusion)
 
@@ -47,7 +47,7 @@ numpy version is 1.21.5
 pandas version is 1.4.2
 seaborn version is 0.11.2
 ```
-## Les pays avec des problemes de sous-nutrition
+## Les pays avec des problèmes de sous-nutrition
 
 D'abord nous pouvons parler des pays qui ont le plus de personnes en sous nutrition en proportion à leur population.
 Malheureusement Haiti est au top mondial du classement en 2017, suivi de la Corée du nord. 
