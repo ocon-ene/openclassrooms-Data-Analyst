@@ -12,9 +12,10 @@
 
 - [Introduction](#introduction)
 - [Cahier des charges](#cahier-des-charges)
-- [Libreries utilisées et version](#libreries-utilisées-et-version)
-- [Les pays avec des problemes de sous-nutrition](#les-pays-avec-des-problemes-de-sous-nutrition)
-- [Nombre theroique des personnes qui peuvent être nourris](#nombre-theroique-des-personnes-qui-peuvent-être-nourris)
+- [Librairies utilisées et version](#librairies-utilisées-et-version)
+- [Premier mission](#premier-mission)
+- [Deuxième mission](#deuxième-mission)
+- [Troisième mission](#troisième-mission)
 - [Conclusion](#conclusion)
 
 
@@ -352,7 +353,7 @@ erp_web.shape
 
     (714, 31)
 
-## Deuxieme mission.
+## Deuxième mission
 
 On ajoute la colonne "chiffre d'affaires" au tableau pour pouvoir calculer le CA par produit et le CA total. 
 
@@ -511,7 +512,7 @@ CA_produit["chiffre_daffaires"].sum()
 
     70568.6
 
-## Troisieme mission
+## Troisième mission
 
 On peut analyser la variable price avec une boxplot.
 
