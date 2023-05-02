@@ -3,8 +3,10 @@
 
 | <div align="center">` Compétences acquises 💡 ` | ` Outils utilisées `
 | :--- | :---: |
-| Mettre à jour un catalogue de données pour rendre accessible la base de données à ses utilisateurs. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Réaliser une analyse uni-variée de données pré-traitées afin de les décrire et de détecter les incohérences. |![python](https://img.icons8.com/color/28/null/python--v1.png) | 
+| Créer les graphiques permettant de représenter les résultats obtenus. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
+| Réaliser une analyse multi-variée pour comprendre la corrélation entre des variables et les synthétiser.   |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*CHI-2, R<sup>2</sup>, ANOVA*</li>|
+| Analyser des séries temporelles pour mesurer un phénomène au cours du temps. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
+| Réaliser un test statistique afin de vérifier une prédiction.  |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Test de Man Whitneyu*</li><li>*Test de Bartlett*</li><li>*Test de shapiro*</li></ul> |
 
 <br>
 
@@ -13,9 +15,8 @@
 - [Introduction](#introduction)
 - [Cahier des charges](#cahier-des-charges)
 - [Librairies utilisées et version](#librairies-utilisées-et-version)
-- [Premier mission](#premier-mission)
-- [Deuxième mission](#deuxième-mission)
-- [Troisième mission](#troisième-mission)
+- [Analyse les indicateurs de vente](#analyse-les-indicateurs-de-vente)
+- [Analyse sur les clients](#Analyse-sur-les-clients)
 - [Conclusion](#conclusion)
 
 
@@ -23,23 +24,20 @@
 
 ![books](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/lapage.PNG)
 
-Vous êtes une data analyst free lance et vous avez reussi a decrocher vôtre premier travail chez Bottleneck, un marchand de vin très prestigieux.
-
-Laurent, le manager de cette mission, vous parle des problemes de l'entreprise : 
-
->Actuellement, pour gérer nos ressources, nos clients, etc., on utilise un ERP (Entreprise Resource Planning) qui n’est absolument pas relié à notre site de vente en ligne. Pour être tout à fait honnête, les outils en place sont vraiment artisanaux et dans ces conditions, la gestion des stocks est vraiment complexe et notre visibilité en termes d’analyse des ventes sur le Net est vraiment réduite, car très peu de personnes ont accès au back-office. En attendant une solution plus centralisée, un rapprochement entre les 2 bases, même manuel, pourrait être très utile…
+Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. Vous intervenez car l’entreprise souhaite faire le point après deux ans d’exercice, et pouvoir analyser ses points forts, ses points faibles, les comportements clients, etc.
 
 ## Cahier des charges
 
-Premier mission:
-- Rapprocher deux exports: un export de l’ERP contenant les références produit, leur prix de vente et leur état de stock, et un export d’une table de l’outil de CMS (Content Management System) contenant les informations des produits commercialisés en ligne (nom, description, nombre de ventes...)
+Une analyse des différents indicateurs de vente :
+- Graphiques autour du CA (chifre d'affaires)
+- Regarder l’évolution dans le temps et mettre en place une décomposition en moyenne mobile
+- Top et flops des ventes et répartition par catégorie
+- Répartition du CA entre les clients
 
-Deuxième mission:
-- Une fois le rapprochement effectué, calculer le chiffre d’affaires par produit, ainsi que le total du chiffre d’affaires réalisé en ligne.
+Une analyse ciblée sur les clients
+- le lien entre le genre d’un client et les catégories des livres achetés
+- le lien entre l’âge des clients et le montant total des achats, la fréquence d’achat, la taille du panier moyen et les catégories des livres achetés.
 	
-Troisième mission:
-- Analyser la variable "prix" afin de détecter d’éventuelles valeurs aberrantes, de les lister et d’en faire une représentation graphique pour plus de lisibilité.
-
 ## Librairies utilisées et version
 
 ```python
@@ -48,13 +46,10 @@ pandas version is 1.4.2
 seaborn version is 0.11.2
 natsort version is 8.1.0
 ```
-##  Premier mission
+## Analyse les indicateurs de vente
 
 
-## Deuxième mission
-
-
-## Troisième mission
+## Analyse sur les clients
 
 
 ## Conclusion
