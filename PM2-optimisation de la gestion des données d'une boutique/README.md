@@ -34,10 +34,10 @@ Laurent, le manager de cette mission, vous parle des problemes de l'entreprise :
 Premier mission:
 - Rapprocher deux exports: un export de l’ERP contenant les références produit, leur prix de vente et leur état de stock, et un export d’une table de l’outil de CMS (Content Management System) contenant les informations des produits commercialisés en ligne (nom, description, nombre de ventes...)
 
-Deuxieme mission:
+Deuxième mission:
 - Une fois le rapprochement effectué, calculer le chiffre d’affaires par produit, ainsi que le total du chiffre d’affaires réalisé en ligne.
 	
-Troisieme mission:
+Troisième mission:
 - Analyser la variable "prix" afin de détecter d’éventuelles valeurs aberrantes, de les lister et d’en faire une représentation graphique pour plus de lisibilité.
 
 ## Librairies utilisées et version
