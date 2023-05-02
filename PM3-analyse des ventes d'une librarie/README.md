@@ -21,7 +21,7 @@
 
 ## Introduction
 
-![fao](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/bottleneck.PNG)
+![books](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/lapage.PNG)
 
 Vous êtes une data analyst free lance et vous avez reussi a decrocher vôtre premier travail chez Bottleneck, un marchand de vin très prestigieux.
 
