@@ -561,3 +561,4 @@ Cette raprochement entre le fichier des ventes et le site en ligne va nous perme
 
 Une donné qui à été très intéressant c'est que la plupart des chiffres d'affaires est obtenu à partir de la vente de quelques produits. Cela peut se montrer avec un coefficient de Gini de 0.805
 
+Pour accèder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/PM2-optimisation%20de%20la%20gestion%20des%20donn%C3%A9es%20d'une%20boutique/Ocon_Jorge_1_notebook_062022.ipynb) 
