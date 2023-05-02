@@ -354,7 +354,7 @@ erp_web.shape
 
 ## Deuxieme mission.
 
-On ajoute la colonne "chiffre d'affaires" au tableau pour pouvoir calculer le CA par produit et le CE total. 
+On ajoute la colonne "chiffre d'affaires" au tableau pour pouvoir calculer le CA par produit et le CA total. 
 
 
 ```python
