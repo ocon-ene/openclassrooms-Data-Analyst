@@ -334,6 +334,10 @@ Une fois le tableaux complet, nous n'avons qu'a créer les graphiques pour montr
 	
 
 ## Analyse sur les clients
+	
+Pour faire l'analyse des clients nous avons étudier les possibles relations ou correlations entre le profil des clients et les produits achetés, pour faire ça nous noous sommes posés de differents questiones, qu'on va essayer de répondre au fur et au mesure :
+
+1. Estce que le sex a une influence sur la quantité d'argent depensé par les clients ?
 
 
 ## Conclusion
