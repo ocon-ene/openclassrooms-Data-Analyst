@@ -312,7 +312,24 @@ customers_achats
 <p>679111 rows × 14 columns</p>
 </div>
 
-Une fois le tableaux complet, nous n'avons qu'a créer les graphiques pour montrer la repartition des CA 
+Une fois le tableaux complet, nous n'avons qu'a créer les graphiques pour montrer la repartition des CA.
+
+
+![images](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/p6_caanne.PNG)
+	
+	
+![images](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/p6_cacateg.PNG)
+	
+
+![images](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/p6_cacategmois.PNG)
+	
+
+![images](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/p6_cl.PNG)
+	
+
+![images](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/p6_linealPNG.PNG)
+	
+
 
 	
 
