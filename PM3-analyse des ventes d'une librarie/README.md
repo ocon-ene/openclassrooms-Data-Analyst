@@ -358,11 +358,84 @@ else:
     stat=9232163.500, p=0.978
     Null hypothesis, significantly equal
 
-Pas d'influence du sexe 
+Nous pouvons conclure qu'il n'y a pas des différences entre les sexes.
 
-2. Estce que l'age des clients a une influence sur la categorie des livres achetés ?
+2. Estce que l'âge des clients a une influence sur la categorie des livres achetés ?
+
+Pour répondre à cette question nous avones utillisé le test du chi-2 	
+	
+```python
+cont
+```
+
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>categ</th>
+      <th>0</th>
+      <th>1</th>
+      <th>2</th>
+      <th>Total</th>
+    </tr>
+    <tr>
+      <th>tranche_dage</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>18-30</th>
+      <td>22263</td>
+      <td>31287</td>
+      <td>33005</td>
+      <td>86555</td>
+    </tr>
+    <tr>
+      <th>31-60</th>
+      <td>356899</td>
+      <td>149629</td>
+      <td>2703</td>
+      <td>509231</td>
+    </tr>
+    <tr>
+      <th>60 ou plus</th>
+      <td>36297</td>
+      <td>46253</td>
+      <td>775</td>
+      <td>83325</td>
+    </tr>
+    <tr>
+      <th>Total</th>
+      <td>415459</td>
+      <td>227169</td>
+      <td>36483</td>
+      <td>679111</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
+
+
+```python
+print('stat=%.3f, p=%.3f' % (st_chi2, st_p))
+if p > 0.05:
+	print('< 0.05 we can reject the null hypothesis and conclude there is a relationship')
+else:
+	print('Null hypothesis, pas de relation')
+```
+
+    stat=241635.059, p=0.000
+    < 0.05 we can reject the null hypothesis and conclude there is a relationship
+    
+
+Nous pouvons conclure que les clients préfèrent certaines catégories selon leur âges.
+		
 3. Estce que le prix des livres a une influence sur le chifre d'affaire par produit?
 
 
