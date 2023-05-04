@@ -337,7 +337,35 @@ Une fois le tableaux complet, nous n'avons qu'a créer les graphiques pour montr
 	
 Pour faire l'analyse des clients nous avons étudier les possibles relations ou correlations entre le profil des clients et les produits achetés, pour faire ça nous noous sommes posés de differents questiones, qu'on va essayer de répondre au fur et au mesure :
 
-1. Estce que le sex a une influence sur la quantité d'argent depensé par les clients ?
+1. Estce que le sexe a une influence sur la quantité d'argent depensé par les clients ?
+
+En comparant les deux distributions (la quantité d'argent depensé par males et females), nous avons vu avec un test de normalité que les deux distribution ne suivent pas une loi normale. En consequence nous avons utilisé le test non-parametrique de Mann-Whitney U.
+
+#### Test non-parametrique de Man Whitneyu
+
+
+```python
+import scipy.stats as stats
+
+stat, p = stats.mannwhitneyu(x=df_m['price'], y=df_f['price'])
+print('stat=%.3f, p=%.3f' % (stat, p))
+if p > 0.05:
+	print('Null hypothesis, significantly equal')
+else:
+	print('Rejet Null hypothesis, significantly different')
+```
+
+    stat=9232163.500, p=0.978
+    Null hypothesis, significantly equal
+
+Pas d'influence du sexe 
+
+2. Estce que l'age des clients a une influence sur la categorie des livres achetés ?
+
+
+3. Estce que le prix des livres a une influence sur le chifre d'affaire par produit?
+
+
 
 
 ## Conclusion
