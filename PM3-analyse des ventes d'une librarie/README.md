@@ -451,5 +451,5 @@ Après l’analyse on peut déduire que :
 
 		    
 
-Pour accèder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM3-analyse%20des%20ventes%20d'une%20librarie) 
+Pour accèder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/PM3-analyse%20des%20ventes%20d'une%20librarie/Ocon_Jorge_6_P6_092022_3.ipynb) 
 
