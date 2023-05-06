@@ -443,10 +443,10 @@ Nous pouvons conclure que les clients préfèrent certaines catégories selon le
 Il y a plusieurs points intéressants qui pourraient aider à l'entreprise dans le futur.
 
 Après l’analyse on peut déduire que :
-1. Les personnes entre 30 et 60 ans étaient les principaux clients.
-2. Il y a autant des femmes comme des hommes qui achètent des livres
+1. Les personnes entre 30 et 60 ans sont les principaux clients.
+2. Les femmes et les hommes achetent la meme quantité des livres.
 3. Un défaut dans l'approvisionnement des livres de catégorie 1 a beaucoup affecté les ventes du 10/2021.
-4. Il y a une bonne répartition des CA entre les clients sauf les premiers 5 clients, 5 clients font 10% des CA. 
+4. Il y a une bonne répartition des CA entre les clients sauf les premiers 5 clients, ses 5 clients font 10% des CA. 
 5. On pourra mieux cibler la publicité maintenant qu'on sait, quel groupe de clients préfère quelle catégorie des livres.
 
 		    
