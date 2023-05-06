@@ -335,7 +335,7 @@ Une fois le tableaux complet, nous n'avons qu'a créer les graphiques pour montr
 
 ## Analyse sur les clients
 	
-Pour faire l'analyse des clients nous avons étudier les possibles relations ou correlations entre le profil des clients et les produits achetés, pour faire ça nous noous sommes posés de differents questiones, qu'on va essayer de répondre au fur et au mesure :
+Pour faire l'analyse des clients nous avons étudier les possibles relations ou correlations entre le profil des clients et les produits achetés, pour faire ça nous noous sommes posés deux questiones, qu'on va essayer de répondre à continuation :
 
 1. Estce que le sexe a une influence sur la quantité d'argent depensé par les clients ?
 
@@ -434,18 +434,22 @@ else:
     < 0.05 we can reject the null hypothesis and conclude there is a relationship
     
 
-Nous pouvons conclure que les clients préfèrent certaines catégories selon leur âges.
-		
-3. Estce que le prix des livres a une influence sur le chifre d'affaire par produit?
-
+Nous pouvons conclure que les clients préfèrent certaines catégories selon leur âges. 
 
 
 
 ## Conclusion
 
-Cette raprochement entre le fichier des ventes et le site en ligne va nous permetre d'analyser l'évolution de l'entreprise en terme de ventes.
+Il y a plusieurs points intéressants qui pourraient aider à l'entreprise dans le futur.
 
-Une donné qui à été très intéressant c'est que la plupart des chiffres d'affaires est obtenu à partir de la vente de quelques produits. Cela peut se montrer avec un coefficient de Gini de 0.805
+Après l’analyse on peut déduire que :
+1. Les personnes entre 30 et 60 ans étaient les principaux clients.
+2. Il y a autant des femmes comme des hommes qui achètent des livres
+3. Un défaut dans l'approvisionnement des livres de catégorie 1 a beaucoup affecté les ventes du 10/2021.
+4. Il y a une bonne répartition des CA entre les clients sauf les premiers 5 clients, 5 clients font 10% des CA. 
+5. On pourra mieux cibler la publicité maintenant qu'on sait, quel groupe de clients préfère quelle catégorie des livres.
 
-Pour accèder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/PM2-optimisation%20de%20la%20gestion%20des%20donn%C3%A9es%20d'une%20boutique/Ocon_Jorge_1_notebook_062022.ipynb) 
+		    
+
+Pour accèder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM3-analyse%20des%20ventes%20d'une%20librarie) 
 
