@@ -4,9 +4,9 @@
 | <div align="center">` Compétences acquises 💡 ` | ` Outils utilisées `
 | :--- | :---: |
 | Créer les graphiques permettant de représenter les résultats obtenus. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Réaliser une analyse multi-variée pour comprendre la corrélation entre des variables et les synthétiser.   |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*CHI-2, R<sup>2</sup>, ANOVA*</li>|
+| Réaliser une analyse multi-variée pour comprendre la corrélation entre des variables et les synthétiser.   |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*CHI-2, R<sup>2</sup>, ANOVA*</li><li>*Test de Pearson*</li></ul> |
 | Analyser des séries temporelles pour mesurer un phénomène au cours du temps. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Réaliser un test statistique afin de vérifier une prédiction.  |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Test de Man Whitneyu*</li><li>*Test de Bartlett*</li><li>*Test de Pearson*</li><li>*Test de shapiro*</li></ul> |
+| Réaliser un test statistique afin de vérifier une prédiction.  |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Test de Man Whitneyu*</li><li>*Test de Bartlett*</li><li>*Test de shapiro*</li></ul> |
 
 <br>
 
