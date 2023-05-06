@@ -14,8 +14,7 @@
 - [Introduction](#introduction)
 - [Cahier des charges](#cahier-des-charges)
 - [Librairies utilisées et version](#librairies-utilisées-et-version)
-- [Analyse les indicateurs de vente](#analyse-les-indicateurs-de-vente)
-- [Analyse sur les clients](#Analyse-sur-les-clients)
+- [Analyse](#analyse)
 - [Conclusion](#conclusion)
 
 
@@ -38,7 +37,7 @@ pandas version is 1.4.2
 seaborn version is 0.11.2
 natsort version is 8.1.0
 ```
-## Analyse les indicateurs de vente
+## Analyse 
 
 La première partie de l'analyse consistait à sélectionner les bons indicateurs et les mettre sur la même échelle, nous avons sélectionnées les suivants :
 1. Disponibilité alimentaire en quantité (kg/personne/an)*
