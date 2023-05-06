@@ -4,10 +4,8 @@
 
 | <div align="center">` Compétences acquises 💡 ` | ` Outils utilisées `
 | :--- | :---: |
-| Créer les graphiques permettant de représenter les résultats obtenus. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Réaliser une analyse multi-variée pour comprendre la corrélation entre des variables et les synthétiser.   |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*CHI-2, R<sup>2</sup>, ANOVA*</li><li>*Test de Pearson*</li></ul> |
-| Analyser des séries temporelles pour mesurer un phénomène au cours du temps. |![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Réaliser un test statistique afin de vérifier une prédiction.  |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Test de Man Whitneyu*</li><li>*Test de Bartlett*</li><li>*Test de shapiro*</li></ul> |
+| Créer un tableau de bord (dashboard) permettant de visualiser et de mesurer les résultats obtenus en fonction d’indicateurs donnés. |![tableau](https://img.icons8.com/color/28/null/tableau-software.png) |
+| Mettre en œuvre une méthode d’apprentissage non supervisée pour opérer des classifications automatiques et partitionner des données.  |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Regression lineaire*</li><li>*ACP*</li><li>*Clustering hiérarchique*</li><li>*K-means*</li></ul> |
 
 <br>
 
@@ -23,26 +21,14 @@
 
 ## Introduction
 
-![books](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/lapage.PNG)
+![books]()
 
-Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. Vous intervenez car l’entreprise souhaite faire le point après deux ans d’exercice, et pouvoir analyser ses points forts, ses points faibles, les comportements clients, etc.
-	
-Trois tableaux ont été fournis :
-customers : Avec l'information des clients
-products : Avec l'informations des produits
-transactions : Avec l'information des transactions
+Dans un objectif de développent, La poule qui chante, une entreprise française d’agroalimentaire, souhaite étendre son marché à international.
+
 
 ## Cahier des charges
 
-Une analyse des différents indicateurs de vente :
-- Graphiques autour du CA (chifre d'affaires)
-- Regarder l’évolution dans le temps et mettre en place une décomposition en moyenne mobile
-- Top et flops des ventes et répartition par catégorie
-- Répartition du CA entre les clients
-
-Une analyse ciblée sur les clients
-- le lien entre le genre d’un client et les catégories des livres achetés
-- le lien entre l’âge des clients et le montant total des achats, la fréquence d’achat, la taille du panier moyen et les catégories des livres achetés.
+Le but c'est de réaliser un étude de marché et selectionner les meilleurs pays pour ce developpement.
 	
 ## Librairies utilisées et version
 
