@@ -87,7 +87,7 @@ Voici la liste des pays :
 
 ![books](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/images/p8resultatstable.PNG)
 
-Link to tableau ![viz tableau](https://public.tableau.com/views/Clusteringpoulet/Dashboard2?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link)
+[link to tableau dashboard](https://public.tableau.com/views/Clusteringpoulet/Dashboard2?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link)
 		    
 
 Pour accéder au code complet [click ici](https://github.com/ocon-ene/openclassrooms-Data-Analyst/blob/main/PM4-%C3%A9tude%20de%20march%C3%A9/Ocon_2_clustering_visualisations_012023.ipynb) 
